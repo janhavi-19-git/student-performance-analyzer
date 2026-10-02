@@ -33,6 +33,7 @@ students = [
 ]
 
 
+INDEX.HTML
 # Calculate average marks for each student
 
 for student in students:
